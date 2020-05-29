@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Udacity Baking App</string>
+
+    <string name="there_is_no_attached_image_or_video">There is no attached image or video</string>
+    <string name="intro">Intro</string>
+    <string name="_1_10">1/10</string>
+    <string name="ingridients">Ingridients</string>
+    <string name="recipie_name">Recipie Name</string>
+    <string name="steps_count">Steps Count</string>
+    <string name="measure">Measure</string>
+    <string name="recipie_title">Recipie Title</string>
+    <string name="reload">Reload</string>
+    <string name="add_your_widget">Add your Widget</string>
+    <string name="add_widget">Add Widget</string>
+</resources>
